@@ -61,15 +61,18 @@ The project focuses on cleaning the dataset, identifying trends and patterns, an
 
 ### City-wise Order Analysis
 
-![City Orders](screenshots/city_orders.png)
+<img width="1146" height="707" alt="image" src="https://github.com/user-attachments/assets/9e73d866-7204-4c7c-b3f2-8b8166d566a6" />
+
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer_analysis.png)
+<img width="805" height="750" alt="image" src="https://github.com/user-attachments/assets/9464522d-2cfe-41ab-8a0c-37ff44ded78c" />
+
 
 ### Correlation Analysis
 
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+<img width="976" height="834" alt="image" src="https://github.com/user-attachments/assets/06df34e1-815a-42a0-ac34-488052dc6352" />
+
 
 ---
 
